@@ -174,7 +174,7 @@ function App() {
 
                 const time = period.slice(start + startChar.length, end);
                 let n = 0;
-                const hourPerperiod = 0.75;
+                const hourPerperiod = 0.8;
                 if(Number(time) <= 5)
                     n = 7.5 + (Number(time) - 1) * hourPerperiod + (startChar === '-' ? hourPerperiod : 0);
                 else 
