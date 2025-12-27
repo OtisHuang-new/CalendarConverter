@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CalendarConverter/static/css/main.0194c58f.css",
-    "main.js": "/CalendarConverter/static/js/main.aa4d22f7.js",
+    "main.js": "/CalendarConverter/static/js/main.128dbd08.js",
     "index.html": "/CalendarConverter/index.html",
     "main.0194c58f.css.map": "/CalendarConverter/static/css/main.0194c58f.css.map",
-    "main.aa4d22f7.js.map": "/CalendarConverter/static/js/main.aa4d22f7.js.map"
+    "main.128dbd08.js.map": "/CalendarConverter/static/js/main.128dbd08.js.map"
   },
   "entrypoints": [
     "static/css/main.0194c58f.css",
-    "static/js/main.aa4d22f7.js"
+    "static/js/main.128dbd08.js"
   ]
 }
